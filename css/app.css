@@ -1,0 +1,73 @@
+/* ===================================
+/* ===== BODY */
+
+body {
+    padding-top: 50px;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+
+/* ===================================
+/* ===== TYPOGRAPHY */
+
+
+/* ===================================
+/* ===== HEADER */
+
+
+/* ===================================
+/* ===== NAVIGATION */
+
+
+/* ===================================
+/* ===== SLIDER */
+
+
+/* ===================================
+/* ===== FOOTER */
+
+/* ===================================
+/* ===== HELPER */
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+.apply-hover {
+    -webkit-transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -ms-transition: opacity .2s ease-in-out;
+    -o-transition: opacity .2s ease-in-out;
+    transition: opacity .2s ease-in-out;
+    opacity: 1;
+}
+
+.apply-hover:hover {
+    zoom: 1;
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+
+.margin-t10 { margin-top: 10px }
+.margin-t20 { margin-top: 20px }
+.margin-t30 { margin-top: 30px }
+.margin-t40 { margin-top: 40px }
+.margin-t50 { margin-top: 50px }
+
+.margin-b10 { margin-bottom: 10px }
+.margin-b20 { margin-bottom: 20px }
+.margin-b30 { margin-bottom: 30px }
+.margin-b40 { margin-bottom: 40px }
+.margin-b50 { margin-bottom: 50px }
+
