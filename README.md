@@ -16,3 +16,8 @@ Vendors
 8. jQuery Mouse Wheel v3.0.6
 9. jQuery Respond
 10. Html5Shiv.js
+
+Documantation
+---
+
+Just add your external CSS and Javascript codes into `css/app.css` and `js/app.js`. That's all.
