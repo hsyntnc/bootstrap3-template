@@ -39,9 +39,20 @@ a, a:hover {
 
 .chromeframe {
     margin: 0.2em 0;
-    background: #ccc;
-    color: #000;
-    padding: 0.2em 0;
+    background: #a10108;
+    color: #ffffff;
+    padding: 5em 5em;
+    text-align: center;
+}
+
+.chromeframe a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.placeholder {
+    color: #aaa;
 }
 
 .apply-hover {
