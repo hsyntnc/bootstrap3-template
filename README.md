@@ -15,6 +15,7 @@ Vendors
 #### [jQuery Selectric](https://github.com/lcdsantos/jQuery-Selectric)
 #### [jQuery Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 #### [jQuery iCheck](https://github.com/fronteed/iCheck)
+#### [jQuery Custom Content Scroller](http://manos.malihu.gr/jquery-custom-content-scroller/)
 
 Documantation
 ---
