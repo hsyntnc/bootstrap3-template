@@ -6,7 +6,7 @@ Startup Kit for Front-End
 Vendors
 ---
 
-#### jQuery v1.9
+#### [jQuery v1.9](http://jquery.com)
 #### [Bootstrap 3 RC2](https://github.com/twbs/bootstrap)
 #### [jQuery Fancybox 2.1.3 + Helpers](https://github.com/fancyapps/fancyBox)
 #### [jQuery Flexslider v2.0](http://www.woothemes.com/flexslider)
@@ -16,6 +16,7 @@ Vendors
 #### [jQuery Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 #### [jQuery iCheck](https://github.com/fronteed/iCheck)
 #### [jQuery Custom Content Scroller](http://manos.malihu.gr/jquery-custom-content-scroller/)
+#### [jQuery Owl Carousel](https://github.com/OwlFonk/OwlCarousel)
 
 Documantation
 ---
