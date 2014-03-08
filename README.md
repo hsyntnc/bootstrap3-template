@@ -7,7 +7,7 @@ Vendors
 ---
 
 #### [jQuery v1.9](http://jquery.com)
-#### [Bootstrap 3 RC2](https://github.com/twbs/bootstrap)
+#### [Bootstrap 3.1.1](https://github.com/twbs/bootstrap)
 #### [jQuery Fancybox 2.1.3 + Helpers](https://github.com/fancyapps/fancyBox)
 #### [jQuery Flexslider v2.0](http://www.woothemes.com/flexslider)
 #### [jQuery Mask](http://igorescobar.github.io/jQuery-Mask-Plugin)
