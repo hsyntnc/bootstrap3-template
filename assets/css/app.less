@@ -1,0 +1,68 @@
+/* === IMPORT === */
+@import "ie8";
+@import "ie9";
+@import "reset";
+@import "variables";
+@import "animations";
+
+/* === BOOTSTRAP === */
+@import "../vendor/bootstrap/less/bootstrap";
+
+/* === HELPERS === */
+
+// Margin
+.apply-margin(@direction, @size) when (@direction = 'top') { margin-top: @size; }
+.apply-margin(@direction, @size) when (@direction = 'bottom') { margin-bottom: @size; }
+.apply-margin(@direction, @size) when (@direction = 'left') { margin-left: @size; }
+.apply-margin(@direction, @size) when (@direction = 'right') { margin-right: @size; }
+
+// Transition
+.transition(@property: all, @duration: 0.2s, @easing: ease-in-out) {
+  -webkit-transition: @property @duration @easing;
+  -moz-transition: @property @duration @easing;
+  -ms-transition: @property @duration @easing;
+  -o-transition: @property @duration @easing;
+  transition: @property @duration @easing;
+}
+
+// Border Radius
+.border-radius(@size) {
+  border-radius: @size;
+  -moz-border-radius: @size;
+  -webkit-border-radius: @size;
+}
+
+// Apply Opacity Hover
+.apply-hover() {
+  .transition();
+  opacity: 1;
+  &:hover{
+    zoom: 1;
+    filter: alpha(opacity=50);
+    opacity: .5;
+  }
+}
+
+// Chrome Frame
+.chromeframe {
+  margin: 0.2em 0;
+  background: #a10108;
+  color: #FFF;
+  padding: 5em 5em;
+  text-align: center;
+  a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+}
+
+/* === MAIN === */
+
+
+
+
+
+
+/* === RESPONSIVE === */
+@import "responsive";
