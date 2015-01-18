@@ -27,3 +27,8 @@ Vendors
 #### [jQuery Owl Carousel](https://github.com/OwlFonk/OwlCarousel)
 
 Note: All packages include the latest version.
+
+Documantation
+---
+
+Just add your external CSS and Javascript codes into `css/app.css` and `js/app.js`. That's all. You can find vendor's documantation at its own Github page.
