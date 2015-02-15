@@ -30,4 +30,4 @@ Note: All packages include the latest version.
 
 Lisance
 ---
-MIT
+GPL
