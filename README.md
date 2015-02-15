@@ -27,3 +27,7 @@ Vendors
 [jQuery Owl Carousel](https://github.com/OwlFonk/OwlCarousel)
 
 Note: All packages include the latest version.
+
+Lisance
+---
+MIT
